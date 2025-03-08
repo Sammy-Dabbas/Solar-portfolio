@@ -52,11 +52,6 @@ npm install
 mkdir -p public/fonts
 ```
 
-Download the following files from the Three.js GitHub repository and place them in the `public/fonts` directory:
-
-1. [helvetiker_regular.typeface.json](https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/fonts/helvetiker_regular.typeface.json)
-2. [helvetiker_bold.typeface.json](https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/fonts/helvetiker_bold.typeface.json)
-
 
 
 4. Run the development server:
